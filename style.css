@@ -78,9 +78,23 @@ a{
     left: 600px;
     top: 300px;
 }
+.paris-h1{
+    text-align: center;
+}
+.paris-hr1{
+    position: absolute;
+    top: 30px;
+    left: 490px;
+}
+.paris-hr2{
+    position: absolute;
+    top: 30px;
+    left: 778px;
+}
 .back{
     position: relative;
-    right: 120px;
+    right: 90px;
+    bottom: 50px;
 }
 .add{
     position: absolute;
